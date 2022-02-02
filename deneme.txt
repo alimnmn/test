@@ -8,3 +8,5 @@ Başlık 1
 6
 
 pc den değiştirdim git e yolladım
+
+deneme deneme
